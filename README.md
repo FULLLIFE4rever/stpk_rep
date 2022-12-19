@@ -1,2 +1,2 @@
 # stpk_rep
-stepik_rep
+Stepik repository
